@@ -1,3 +1,3 @@
-# ummcoin
+# Ummcoin
 
 Это ридми!
